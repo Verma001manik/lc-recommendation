@@ -4,7 +4,7 @@ A semantic search engine for LeetCode problems that helps users discover relevan
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🔍 **Semantic Search** — Find problems based on meaning, not just keywords.
 - 🧠 **Embeddings** — Uses pre-trained models to convert text into high-dimensional vectors.
@@ -13,12 +13,9 @@ A semantic search engine for LeetCode problems that helps users discover relevan
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 - Python 3
-- Flask (API backend)
-- FAISS (vector similarity search)
-- sentence-transformers / MiniLM / BERT (for embeddings)
-- pandas / NumPy (data handling)
+- Recommendme (https://github.com/Verma001manik/recommendme)
 
 ---

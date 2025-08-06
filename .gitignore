@@ -1,3 +1,11 @@
 embeddings/
 
 
+questions.csv/
+.venv/
+venv/
+cc/
+cf/
+data/
+embeddings/
+cf.csv
